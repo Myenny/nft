@@ -52,6 +52,6 @@ Restart Terminal**
 </br>**https://ipfs.io/ipfs/hash**
 </br>**For the first time may take a while to load dApp**
 
-Add .env file with 
-INFURA_API_KEY="infura key here"
-PRIVATE_KEYS="MetaMask priv key here"
+## Add .env file with 
+```INFURA_API_KEY="infura key here"```
+```PRIVATE_KEYS="MetaMask priv key here"```

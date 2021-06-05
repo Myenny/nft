@@ -53,5 +53,5 @@ Restart Terminal**
 </br>**For the first time may take a while to load dApp**
 
 ## Add .env file with 
-```INFURA_API_KEY="infura key here"```
-```PRIVATE_KEYS="MetaMask priv key here"```
+</br>```INFURA_API_KEY="infura key here"```
+</br>```PRIVATE_KEYS="MetaMask priv key here"```
